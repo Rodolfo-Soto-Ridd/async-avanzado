@@ -1,0 +1,1 @@
+Implementa un sistema de scraping web que descargue datos de múltiples páginas concurrentemente usando Promise.allSettled para manejar fallos gracefully. Agrega sistema de reintentos automáticos, rate limiting, y genera reportes de rendimiento. Usa async generators para procesar los datos en streaming.
